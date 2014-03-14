@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[<% elsif %>
+	$1]]></content>
+    <tabTrigger>elsif</tabTrigger>
+    <scope>text.html.ruby</scope>
+    <description>elsif condition</description>
+</snippet>

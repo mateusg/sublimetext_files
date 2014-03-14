@@ -1,0 +1,16 @@
+[
+  { "keys": ["ctrl+shift+."], "command": "erb" },
+  { "keys": ["ctrl+alt+super+d"], "command": "toggle_side_bar" },
+
+  {
+    "keys": ["ctrl+l"],
+    "command": "insert_snippet",
+    "args": {"name": "Packages/User/hashrocket.sublime-snippet"}
+  },
+
+  {
+    "keys": ["ctrl+shift+,"],
+    "command": "insert_snippet",
+    "args": {"name": "Packages/User/HTML-Tag.sublime-snippet"}
+  }
+]

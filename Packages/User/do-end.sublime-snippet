@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[do |${1:variable}| %>
+  $0
+<% end]]></content>
+    <tabTrigger>do</tabTrigger>
+    <scope>text.html.ruby</scope>
+    <description>do..end</description>
+</snippet>

@@ -1,0 +1,26 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"BufferScroll",
+		"ChangeQuotes",
+		"CoffeeScript",
+		"ColorPicker",
+		"eco",
+		"Git",
+		"GitGutter",
+		"Indent XML",
+		"IndentGuides",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeERB",
+		"Theme - Soda",
+		"Theme - Sodarized",
+		"Theme - Spacegray",
+		"Trimmer"
+	]
+}
